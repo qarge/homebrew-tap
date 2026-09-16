@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ruby tooling
+.bundle/
+vendor/
+.ruby-lsp/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.orig
