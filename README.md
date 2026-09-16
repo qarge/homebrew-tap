@@ -26,7 +26,7 @@ brew install --cask holdon
 
 ## Releasing a new version
 
-Bump `version` in the cask, set `sha256` to the output of `shasum -a 256` on the new dmg,
+Bump `version` in the cask, set `sha256` to the output of `shasum -a 256` on the new zip,
 then check it:
 
 ```sh
