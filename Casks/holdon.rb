@@ -1,7 +1,7 @@
 # On a new release: bump version, then set sha256 to the zip's `shasum -a 256`.
 cask "holdon" do
-  version "1.0.0"
-  sha256 "fd981d4fe0c902130ff8c9bd0dabeceb2cc2897b9c6204fd2240ec5efaed3462"
+  version "1.1.0"
+  sha256 "9b9ffdf5097562675e6454a5e1010c799abbc5877f1c7448be510e993b15c16c"
 
   url "https://github.com/qarge/HoldOn/releases/download/v#{version}/HoldOn-#{version}.zip"
   name "HoldOn"
